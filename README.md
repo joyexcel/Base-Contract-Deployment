@@ -29,10 +29,9 @@ contract VotingSample {
                 return true;
             }
         }
-
-        Visit the "Solidity Compiler" and click on "Compile yourfilename.sol
-        Paste the "custom dev-run-script..." string into the "string[] _Candidates" field.
-        Click "Deploy" and wait for a successful deployment confirmation
         return false;
     }
 }
+ Visit the "Solidity Compiler" and click on "Compile yourfilename.sol
+        Paste the "custom dev-run-script..." string into the "string[] _Candidates" field.
+        Click "Deploy" and wait for a successful deployment confirmation
