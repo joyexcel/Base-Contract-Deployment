@@ -1,7 +1,10 @@
 # Base-Contract-Deployment
 Create a new code file with Remix https://remix.ethereum.org
+
 Click on "New File" button, and name your file.
+
 Paste code in Remix file editor
+
 // SPDX-License-Identifier: MIT
 /**
  * @custom:dev-run-script [VotingSample]
@@ -33,5 +36,7 @@ contract VotingSample {
     }
 }
  Visit the "Solidity Compiler" and click on "Compile yourfilename.sol
+ 
         Paste the "custom dev-run-script..." string into the "string[] _Candidates" field.
+        
         Click "Deploy" and wait for a successful deployment confirmation
