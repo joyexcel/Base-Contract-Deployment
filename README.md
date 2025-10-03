@@ -35,6 +35,7 @@ contract VotingSample {
         return false;
     }
 }
+
  Visit the "Solidity Compiler" and click on "Compile yourfilename.sol
  
         Paste the "custom dev-run-script..." string into the "string[] _Candidates" field.
